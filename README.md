@@ -4,7 +4,7 @@
  ---
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**
- - [x] **AM-IV - [Reference Books](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/tree/main/Reference%20Books)**
+ - [X] **AM-IV - [Reference Books](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/tree/main/Reference%20Books)**
 
 ---
 
