@@ -14,4 +14,4 @@
  - [Blueprint](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Blueprint%20(M4).png)
 
 ## Test
-- [AM-4 Test](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Maths_Test_B-50.pdf)
+- [AM-IV Test](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Maths_Test_B-50.pdf)
