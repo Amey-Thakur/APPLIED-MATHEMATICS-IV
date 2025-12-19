@@ -64,16 +64,16 @@ This collection includes **24 comprehensive reference materials** covering all m
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
-| 1 | [M4 Kumbhojkar](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/M4%20Kumbhojkar.pdf) | Complete syllabus coverage |
+| 1 | [Applied Mathematics IV - GV Kumbhojkar](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Applied%20Mathematics%20IV%20-%20GV%20Kumbhojkar.pdf) | Complete syllabus coverage |
 | 2 | [Application of Residues Solution](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Application%20of%20Residues%20Solution%20(Updated%20Nov%202017).pdf) | Solved problems on residues |
 | 3 | [Area Under Standard Normal Curve](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Area%20Under%20Standard%20Normal%20Curve.pdf) | Statistical distribution table |
 | 4 | [Bayes Theorem](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Bayes%20Theorem%20(Updated%20Nov%202017).pdf) | Probability fundamentals |
 | 5 | [Binomial Distribution](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Binomial%20Distribution.pdf) | Discrete probability distribution |
 | 6 | [Calculus of Variations](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Calculus%20of%20Variations%20(Updated%20Nov%202017).pdf) | Functional optimization |
 | 7 | [Correlation & Regression](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Correlation%20%26%20Regression%20(Updated%20Nov%202017).pdf) | Statistical relationship analysis |
-| 8 | [M4 Easy Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/M4%20Easy%20Solutions.pdf) | Solved problems and examples |
-| 9 | [M4 Formula Sheet](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/M4%20Formula%20Sheet.pdf) | Quick reference for examinations |
-| 10 | [M4 Question Bank](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/M4%20Question%20Bank.png) | Additional practice questions |
+| 8 | [AM-IV Easy Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/AM-IV%20Easy%20Solutions.pdf) | Solved problems and examples |
+| 9 | [Applied Mathematics - IV Formula Sheet](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Applied%20Mathematics%20-%20IV%20Formula%20Sheet.pdf) | Quick reference for examinations |
+| 10 | [AM-IV Question Bank](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/AM-IV%20Question%20Bank.png) | Additional practice questions |
 | 11 | [Matrices (Updated)](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Matrices%20(Updated%20Nov%202017).pdf) | Advanced matrix operations |
 | 12 | [Matrices](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Matrices.pdf) | Comprehensive matrix theory |
 | 13 | [More Important Distributions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/More%20Important%20Distributions%20(Updated%20Nov%202017).pdf) | Probability distributions guide |
@@ -85,7 +85,7 @@ This collection includes **24 comprehensive reference materials** covering all m
 | 19 | [Strassen's Matrix Multiplication](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Strassen's%20Matrix%20Multiplication.pdf) | Algorithmic matrix analysis |
 | 20 | [Taylor's and Laurent's Series](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Taylor's%20and%20Laurent's%20Series.pdf) | Analytic function expansion |
 | 21 | [Taylor's & Laurent's Series (Updated)](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Taylor's%20%26%20Laurent's%20Series%20(Updated%20Nov%202017).pdf) | Series expansion guide |
-| 22 | [Vectors in Rn](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Vectors%20in%20%Rn%20(Updated%20Nov%202017).pdf) | Multi-dimensional vector space |
+| 22 | [Vectors in Rn](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Vectors%20in%20Rn%20(Updated%20Nov%202017).pdf) | Multi-dimensional vector space |
 | 23 | [X² - Distribution Table](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/X%C2%B2%20-%20Distribution%20Table.pdf) | Chi-square statistical table |
 | 24 | [t - Distribution Table](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/t%20-%20Distribution%20Table.pdf) | Student's t-test table |
 
