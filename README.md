@@ -99,9 +99,9 @@ Study materials and planning resources for effective exam preparation:
 |:---|:---|
 | 📝 [Syllabus Breakdown](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/My%20Preparation/Syllabus.png) | Detailed module-wise syllabus notes |
 | 📊 [Module Planning](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/My%20Preparation/Modules.png) | Topic organization and study schedule |
-| 📏 [Examination Blueprint](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Blueprint%20(M4).png) | Question paper pattern and marking scheme |
-| 🧪 [AM-IV Test](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Maths_Test_B-50.pdf) | Practice test paper |
-| 🎖️ [Achievement Certificate](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Certificate.jpg) | Recognition in mathematical excellence |
+| 🎯 [Examination Blueprint](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Blueprint%20(M4).png) | Question paper pattern and marking scheme |
+| 📄 [AM-IV Test](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Maths_Test_B-50.pdf) | Practice test paper |
+| 🏆 [Achievement Certificate](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Certificate.jpg) | Recognition in mathematical excellence |
 
 ---
 
