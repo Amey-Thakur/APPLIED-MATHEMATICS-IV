@@ -65,7 +65,7 @@ This collection includes **24 comprehensive reference materials** covering all m
 | # | Resource | Focus Area |
 |:-:|:---|:---|
 | 1 | [M4 Kumbhojkar](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/M4%20Kumbhojkar.pdf) | Complete syllabus coverage |
-| 2 | [Application of Residues Solution](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Application%20of%20Residues%20Solution%20(Updated%20Nov%2017).pdf) | Solved problems on residues |
+| 2 | [Application of Residues Solution](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Application%20of%20Residues%20Solution%20(Updated%20Nov%202017).pdf) | Solved problems on residues |
 | 3 | [Area Under Standard Normal Curve](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Area%20Under%20Standard%20Normal%20Curve.pdf) | Statistical distribution table |
 | 4 | [Bayes Theorem](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Bayes%20Theorem%20(Updated%20Nov%202017).pdf) | Probability fundamentals |
 | 5 | [Binomial Distribution](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Binomial%20Distribution.pdf) | Discrete probability distribution |
