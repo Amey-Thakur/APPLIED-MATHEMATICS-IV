@@ -125,7 +125,7 @@ Practice assessment details:
      ========================================================================================= -->
 ## Syllabus
 
-> 📋 **[Official CBCGS Syllabus](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**  
+> **[Official CBCGS Syllabus](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**  
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Applied Mathematics IV.
 
 > [!IMPORTANT]
