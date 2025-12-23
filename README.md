@@ -106,8 +106,17 @@ Study materials and planning resources for effective exam preparation:
 | 1 | [Syllabus Breakdown](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/My%20Preparation/Syllabus.png) | Detailed module-wise syllabus notes |
 | 2 | [Module Planning](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/My%20Preparation/Modules.png) | Topic organization and study schedule |
 | 3 | [Examination Blueprint](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Blueprint%20(M4).png) | Question paper pattern and marking scheme |
-| 4 | [AM-IV Test](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Maths_Test_B-50.pdf) | Practice test paper |
-| 5 | [Achievement Certificate](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Certificate.jpg) | Recognition in mathematical excellence |
+| 4 | [Achievement Certificate](Certificate.jpg) | Recognition in mathematical excellence |
+
+---
+
+### Practice Test
+
+Practice assessment details:
+
+| Test | Date | Time | Class | Link |
+|:---|:---:|:---:|:---:|:---:|
+| **Practice Test AM-IV** | May 8, 2020 | 10:00 AM - 11:00 AM | SE B-50 | [📄 View](Maths_Test_B-50.pdf) |
 
 ---
 
