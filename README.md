@@ -18,7 +18,7 @@
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -101,13 +101,13 @@ This collection includes **24 comprehensive reference materials** covering all m
 
 Study materials and planning resources for effective exam preparation:
 
-| Resource | Description |
-|:---|:---|
-| 📝 [Syllabus Breakdown](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/My%20Preparation/Syllabus.png) | Detailed module-wise syllabus notes |
-| 📊 [Module Planning](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/My%20Preparation/Modules.png) | Topic organization and study schedule |
-| 🎯 [Examination Blueprint](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Blueprint%20(M4).png) | Question paper pattern and marking scheme |
-| 📄 [AM-IV Test](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Maths_Test_B-50.pdf) | Practice test paper |
-| 🏆 [Achievement Certificate](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Certificate.jpg) | Recognition in mathematical excellence |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Syllabus Breakdown](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/My%20Preparation/Syllabus.png) | Detailed module-wise syllabus notes |
+| 2 | [Module Planning](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/My%20Preparation/Modules.png) | Topic organization and study schedule |
+| 3 | [Examination Blueprint](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Blueprint%20(M4).png) | Question paper pattern and marking scheme |
+| 4 | [AM-IV Test](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Maths_Test_B-50.pdf) | Practice test paper |
+| 5 | [Achievement Certificate](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Certificate.jpg) | Recognition in mathematical excellence |
 
 ---
 
@@ -182,9 +182,9 @@ Special thanks to the faculty members, mentors, and peers whose guidance, suppor
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[⬆ Back to Top](#applied-mathematics-iv)**
+  **[↑ Back to Top](#applied-mathematics-iv)**
 
-  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
 </div>
 
