@@ -114,8 +114,8 @@ Study materials and planning resources for effective exam preparation:
 
 Practice assessment details:
 
-| # | Test | Date | Time | Class | Link |
-|:-:|:---|:---:|:---:|:---:|:---:|
+| # | Test | Date | Time | Class |
+|:-:|:---|:-:|:-:|:-:|
 | 1 | [**Practice Test AM-IV**](Maths_Test_B-50.pdf) | May 8, 2020 | 10:00 AM - 11:00 AM | SE B-50 |
 
 ---
