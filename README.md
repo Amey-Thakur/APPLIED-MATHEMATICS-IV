@@ -10,7 +10,7 @@
   ### CSC401 · Semester IV · Computer Engineering
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
@@ -70,30 +70,30 @@ This collection includes **24 comprehensive reference materials** covering all m
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
-| 1 | [Applied Mathematics IV - GV Kumbhojkar](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Applied%20Mathematics%20IV%20-%20GV%20Kumbhojkar.pdf) | Complete syllabus coverage |
-| 2 | [Application of Residues Solution](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Application%20of%20Residues%20Solution%20(Updated%20Nov%202017).pdf) | Solved problems on residues |
-| 3 | [Area Under Standard Normal Curve](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Area%20Under%20Standard%20Normal%20Curve.pdf) | Statistical distribution table |
-| 4 | [Bayes Theorem](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Bayes%20Theorem%20(Updated%20Nov%202017).pdf) | Probability fundamentals |
-| 5 | [Binomial Distribution](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Binomial%20Distribution.pdf) | Discrete probability distribution |
-| 6 | [Calculus of Variations](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Calculus%20of%20Variations%20(Updated%20Nov%202017).pdf) | Functional optimization |
-| 7 | [Correlation & Regression](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Correlation%20%26%20Regression%20(Updated%20Nov%202017).pdf) | Statistical relationship analysis |
-| 8 | [AM-IV Easy Solutions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/AM-IV%20Easy%20Solutions.pdf) | Solved problems and examples |
-| 9 | [Applied Mathematics - IV Formula Sheet](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Applied%20Mathematics%20-%20IV%20Formula%20Sheet.pdf) | Quick reference for examinations |
-| 10 | [AM-IV Question Bank](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/AM-IV%20Question%20Bank.png) | Additional practice questions |
-| 11 | [Matrices (Updated)](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Matrices%20(Updated%20Nov%202017).pdf) | Advanced matrix operations |
-| 12 | [Matrices](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Matrices.pdf) | Comprehensive matrix theory |
-| 13 | [More Important Distributions](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/More%20Important%20Distributions%20(Updated%20Nov%202017).pdf) | Probability distributions guide |
-| 14 | [Normal Distribution](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Normal%20Distribution.pdf) | Continuous probability distribution |
-| 15 | [Poisson Distribution](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Poisson%20Distribution.pdf) | Discrete probability distribution |
-| 16 | [Residue Theorem](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Residue%20Theorem.pdf) | Complex integration theory |
-| 17 | [Residues (Updated)](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Residues%20(Updated%20Nov%202017).pdf) | Analytic function residues |
-| 18 | [SEM - IV Books List](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/SEM%20-%20IV%20Books.png) | Curated book list |
-| 19 | [Strassen's Matrix Multiplication](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Strassen's%20Matrix%20Multiplication.pdf) | Algorithmic matrix analysis |
-| 20 | [Taylor's and Laurent's Series](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Taylor's%20and%20Laurent's%20Series.pdf) | Analytic function expansion |
-| 21 | [Taylor's & Laurent's Series (Updated)](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Taylor's%20%26%20Laurent's%20Series%20(Updated%20Nov%202017).pdf) | Series expansion guide |
-| 22 | [Vectors in Rn](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/Vectors%20in%20Rn%20(Updated%20Nov%202017).pdf) | Multi-dimensional vector space |
-| 23 | [X² - Distribution Table](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/X%C2%B2%20-%20Distribution%20Table.pdf) | Chi-square statistical table |
-| 24 | [t - Distribution Table](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Reference%20Books/t%20-%20Distribution%20Table.pdf) | Student's t-test table |
+| 1 | [Applied Mathematics IV - GV Kumbhojkar](Reference%20Books/Applied%20Mathematics%20IV%20-%20GV%20Kumbhojkar.pdf) | Complete syllabus coverage |
+| 2 | [Application of Residues Solution](Reference%20Books/Application%20of%20Residues%20Solution%20(Updated%20Nov%202017).pdf) | Solved problems on residues |
+| 3 | [Area Under Standard Normal Curve](Reference%20Books/Area%20Under%20Standard%20Normal%20Curve.pdf) | Statistical distribution table |
+| 4 | [Bayes Theorem](Reference%20Books/Bayes%20Theorem%20(Updated%20Nov%202017).pdf) | Probability fundamentals |
+| 5 | [Binomial Distribution](Reference%20Books/Binomial%20Distribution.pdf) | Discrete probability distribution |
+| 6 | [Calculus of Variations](Reference%20Books/Calculus%20of%20Variations%20(Updated%20Nov%202017).pdf) | Functional optimization |
+| 7 | [Correlation & Regression](Reference%20Books/Correlation%20%26%20Regression%20(Updated%20Nov%202017).pdf) | Statistical relationship analysis |
+| 8 | [AM-IV Easy Solutions](Reference%20Books/AM-IV%20Easy%20Solutions.pdf) | Solved problems and examples |
+| 9 | [Applied Mathematics - IV Formula Sheet](Reference%20Books/Applied%20Mathematics%20-%20IV%20Formula%20Sheet.pdf) | Quick reference for examinations |
+| 10 | [AM-IV Question Bank](Reference%20Books/AM-IV%20Question%20Bank.png) | Additional practice questions |
+| 11 | [Matrices (Updated)](Reference%20Books/Matrices%20(Updated%20Nov%202017).pdf) | Advanced matrix operations |
+| 12 | [Matrices](Reference%20Books/Matrices.pdf) | Comprehensive matrix theory |
+| 13 | [More Important Distributions](Reference%20Books/More%20Important%20Distributions%20(Updated%20Nov%202017).pdf) | Probability distributions guide |
+| 14 | [Normal Distribution](Reference%20Books/Normal%20Distribution.pdf) | Continuous probability distribution |
+| 15 | [Poisson Distribution](Reference%20Books/Poisson%20Distribution.pdf) | Discrete probability distribution |
+| 16 | [Residue Theorem](Reference%20Books/Residue%20Theorem.pdf) | Complex integration theory |
+| 17 | [Residues (Updated)](Reference%20Books/Residues%20(Updated%20Nov%202017).pdf) | Analytic function residues |
+| 18 | [SEM - IV Books List](Reference%20Books/SEM%20-%20IV%20Books.png) | Curated book list |
+| 19 | [Strassen's Matrix Multiplication](Reference%20Books/Strassen's%20Matrix%20Multiplication.pdf) | Algorithmic matrix analysis |
+| 20 | [Taylor's and Laurent's Series](Reference%20Books/Taylor's%20and%20Laurent's%20Series.pdf) | Analytic function expansion |
+| 21 | [Taylor's & Laurent's Series (Updated)](Reference%20Books/Taylor's%20%26%20Laurent's%20Series%20(Updated%20Nov%202017).pdf) | Series expansion guide |
+| 22 | [Vectors in Rn](Reference%20Books/Vectors%20in%20Rn%20(Updated%20Nov%202017).pdf) | Multi-dimensional vector space |
+| 23 | [X² - Distribution Table](Reference%20Books/X%C2%B2%20-%20Distribution%20Table.pdf) | Chi-square statistical table |
+| 24 | [t - Distribution Table](Reference%20Books/t%20-%20Distribution%20Table.pdf) | Student's t-test table |
 
 ---
 
@@ -103,9 +103,9 @@ Study materials and planning resources for effective exam preparation:
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Syllabus Breakdown](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/My%20Preparation/Syllabus.png) | Detailed module-wise syllabus notes |
-| 2 | [Module Planning](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/My%20Preparation/Modules.png) | Topic organization and study schedule |
-| 3 | [Examination Blueprint](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/Blueprint%20(M4).png) | Question paper pattern and marking scheme |
+| 1 | [Syllabus Breakdown](My%20Preparation/Syllabus.png) | Detailed module-wise syllabus notes |
+| 2 | [Module Planning](My%20Preparation/Modules.png) | Topic organization and study schedule |
+| 3 | [Examination Blueprint](Blueprint%20(M4).png) | Question paper pattern and marking scheme |
 | 4 | [Achievement Certificate](Certificate.jpg) | Recognition in mathematical excellence |
 
 ---
@@ -125,7 +125,7 @@ Practice assessment details:
      ========================================================================================= -->
 ## Syllabus
 
-> **[Official CBCGS Syllabus](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**  
+> **[Official CBCGS Syllabus](SE-Comps_CBCGS_Syllabus.pdf)**  
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Applied Mathematics IV.
 
 > [!IMPORTANT]
@@ -191,9 +191,9 @@ Special thanks to the faculty members, mentors, and peers whose guidance, suppor
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#applied-mathematics-iv)**
+  [↑ Back to Top](#applied-mathematics-iv)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
