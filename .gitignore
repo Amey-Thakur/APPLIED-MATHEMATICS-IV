@@ -1,27 +1,29 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Applied Mathematics IV - Academic Repository
+# Specialized .gitignore for scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
 *.code-workspace
 
-# JetBrains
-.idea/
-*.iml
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+node_modules/
 
-# PDF/Doc generation artifacts
+# LaTeX / Document Artifacts
 *.aux
 *.bbl
 *.blg
@@ -44,12 +46,8 @@ $RECYCLE.BIN/
 *.dvi
 *.ps
 
-# Archives
-*.zip
-*.tar
-*.gz
-*.rar
-*.7z
-
-# Git
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
