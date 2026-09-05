@@ -1,0 +1,73 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "additionalType": "https://schema.org/LearningResource",
+    "name": "APPLIED-MATHEMATICS-IV",
+    "description": "CSC401: Applied Mathematics IV [AM-IV] | SE Semester IV | Computer Engineering",
+    "identifier": "APPLIED-MATHEMATICS-IV",
+    "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateCreated": "2022-02-07",
+    "dateReleased": "2020-08-12",
+    "codeRepository": "https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
+    "developmentStatus": "complete",
+    "applicationCategory": "Academic Course Archive",
+    "educationalLevel": "Undergraduate, Second Year, Semester IV",
+    "keywords": [
+        "Applied Mathematics",
+        "Calculus Of Variations",
+        "Complex Variables",
+        "Computer Engineering",
+        "Computer Science",
+        "Engineering",
+        "Engineering Mathematics",
+        "Hypothesis Testing",
+        "Linear Algebra",
+        "Probability Distributions",
+        "Reference Books",
+        "Sampling Theory",
+        "Statistical Methods",
+        "Textbooks",
+        "University Of Mumbai",
+        "CSC401",
+        "AM-IV",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "SE Semester IV",
+        "Semester IV",
+        "Study Notes",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ]
+}

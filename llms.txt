@@ -1,0 +1,37 @@
+# Applied Mathematics IV
+
+> CSC401: Applied Mathematics IV [AM-IV] | SE Semester IV | Computer
+> Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Second Year, Semester IV
+Course code: CSC401
+Licence: CC BY 4.0, attribution required
+Repository created: 7 February 2022
+Work dated: 12 August 2020
+
+## What is in this repository
+
+- My Preparation, 2 files
+- Reference Books, 24 files
+- Blueprint (M4).png
+- Certificate.jpg
+- Maths_Test_B-50.pdf
+- SE-Comps_CBCGS_Syllabus.pdf
+
+## Subject terms
+
+applied-mathematics, calculus-of-variations, complex-variables,
+computer-engineering, computer-science, engineering,
+engineering-mathematics, hypothesis-testing, linear-algebra,
+probability-distributions, reference-books, sampling-theory,
+statistical-methods, textbooks, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-IV
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
